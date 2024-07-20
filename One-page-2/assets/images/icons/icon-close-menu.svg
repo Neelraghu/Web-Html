@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E7DA7FEC-E880-4D2B-B2E8-3BBA6ABA2209@2x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#83DD9D" offset="0%"></stop>
+            <stop stop-color="#4CB964" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu" transform="translate(-323.000000, -34.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Navigation-/-Primary">
+                <path d="M333,42.4719816 L341.169021,34.3029601 C341.580488,33.8914935 342.255155,33.9002554 342.67745,34.3225501 C343.099745,34.7448447 343.108518,35.4195008 342.69704,35.8309785 L334.528018,44 L342.69704,52.1690215 C343.108506,52.5804881 343.099745,53.2551553 342.67745,53.6774499 C342.255155,54.0997446 341.580499,54.1085176 341.169021,53.6970399 L333,45.5280184 L324.830979,53.6970399 C324.419512,54.1085065 323.744845,54.0997446 323.32255,53.6774499 C322.900255,53.2551553 322.891482,52.5804992 323.30296,52.1690215 L331.471982,44 L323.30296,35.8309785 C322.891494,35.4195119 322.900255,34.7448447 323.32255,34.3225501 C323.744845,33.9002554 324.419501,33.8914824 324.830979,34.3029601 L333,42.4719816 Z" id="icon-close-menu"></path>
+            </g>
+        </g>
+    </g>
+</svg>
